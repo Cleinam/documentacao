@@ -1,0 +1,12 @@
+FEITO:
+Tela inicial
+Telas de login
+===
+Para fazer:
+
+1- Tela de cadastro
+2 - Menus principais
+ 2.1 - Tela dos clientes
+ 2.2 - Tela da empresa
+ 2.3 - copiar algumas coisas da tela da empresa limitar  e adicionar
+	
